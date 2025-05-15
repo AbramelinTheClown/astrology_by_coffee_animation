@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+pip-selfcheck.json
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+mcpvenv/
+ttsvenv/
+fastvenv/
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*uv.lock
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.egg
+.coverage
+
+#models
+outputs/
+
+#folders/
+cache/
+D:\AI\astrology_by_coffee_v1\anienv/
+src/
