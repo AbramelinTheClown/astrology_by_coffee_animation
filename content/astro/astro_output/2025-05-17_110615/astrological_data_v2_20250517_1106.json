@@ -1,0 +1,510 @@
+{
+    "calculation_metadata": {
+        "calculation_datetime_utc": "2025-05-17T11:06:15.206640+00:00",
+        "ephemeris_file_used": "de421.bsp",
+        "skyfield_version": "1.53"
+    },
+    "celestial_bodies": {
+        "Sun": {
+            "longitude_decimal": 56.449138,
+            "longitude_dms": "26\u00b0 Tau 26' 57\"",
+            "sign": "Taurus",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Moon": {
+            "longitude_decimal": 289.927264,
+            "longitude_dms": "19\u00b0 Cap 55' 38\"",
+            "sign": "Capricorn",
+            "retrograde": false,
+            "exalted": false,
+            "phase": "Waning Gibbous"
+        },
+        "Mercury": {
+            "longitude_decimal": 42.140578,
+            "longitude_dms": "12\u00b0 Tau 08' 26\"",
+            "sign": "Taurus",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Venus": {
+            "longitude_decimal": 11.48043,
+            "longitude_dms": "11\u00b0 Ari 28' 50\"",
+            "sign": "Aries",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Mars": {
+            "longitude_decimal": 133.171104,
+            "longitude_dms": "13\u00b0 Leo 10' 16\"",
+            "sign": "Leo",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Jupiter": {
+            "longitude_decimal": 84.451303,
+            "longitude_dms": "24\u00b0 Gem 27' 05\"",
+            "sign": "Gemini",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Saturn": {
+            "longitude_decimal": 359.032827,
+            "longitude_dms": "29\u00b0 Pis 01' 58\"",
+            "sign": "Pisces",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Uranus": {
+            "longitude_decimal": 56.918007,
+            "longitude_dms": "26\u00b0 Tau 55' 05\"",
+            "sign": "Taurus",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Neptune": {
+            "longitude_decimal": 1.203136,
+            "longitude_dms": "01\u00b0 Ari 12' 11\"",
+            "sign": "Aries",
+            "retrograde": false,
+            "exalted": false
+        },
+        "Pluto": {
+            "longitude_decimal": 303.423861,
+            "longitude_dms": "03\u00b0 Aqu 25' 26\"",
+            "sign": "Aquarius",
+            "retrograde": true,
+            "exalted": false
+        }
+    },
+    "aspect_analysis": {
+        "aspects": [
+            {
+                "body1": "Sun",
+                "body2": "Moon",
+                "aspect_type": "Trine",
+                "angle_degrees": 126.52,
+                "orb_degrees": 6.52,
+                "sign1": "Taurus",
+                "sign2": "Capricorn"
+            },
+            {
+                "body1": "Sun",
+                "body2": "Jupiter",
+                "aspect_type": "Semisextile",
+                "angle_degrees": 28.0,
+                "orb_degrees": 2.0,
+                "sign1": "Taurus",
+                "sign2": "Gemini"
+            },
+            {
+                "body1": "Sun",
+                "body2": "Saturn",
+                "aspect_type": "Sextile",
+                "angle_degrees": 57.42,
+                "orb_degrees": 2.58,
+                "sign1": "Taurus",
+                "sign2": "Pisces"
+            },
+            {
+                "body1": "Sun",
+                "body2": "Uranus",
+                "aspect_type": "Conjunction",
+                "angle_degrees": 0.47,
+                "orb_degrees": 0.47,
+                "sign1": "Taurus",
+                "sign2": "Taurus"
+            },
+            {
+                "body1": "Sun",
+                "body2": "Neptune",
+                "aspect_type": "Sextile",
+                "angle_degrees": 55.25,
+                "orb_degrees": 4.75,
+                "sign1": "Taurus",
+                "sign2": "Aries"
+            },
+            {
+                "body1": "Sun",
+                "body2": "Pluto",
+                "aspect_type": "Trine",
+                "angle_degrees": 113.03,
+                "orb_degrees": 6.97,
+                "sign1": "Taurus",
+                "sign2": "Aquarius"
+            },
+            {
+                "body1": "Moon",
+                "body2": "Mercury",
+                "aspect_type": "Trine",
+                "angle_degrees": 112.21,
+                "orb_degrees": 7.79,
+                "sign1": "Capricorn",
+                "sign2": "Taurus"
+            },
+            {
+                "body1": "Moon",
+                "body2": "Uranus",
+                "aspect_type": "Trine",
+                "angle_degrees": 126.99,
+                "orb_degrees": 6.99,
+                "sign1": "Capricorn",
+                "sign2": "Taurus"
+            },
+            {
+                "body1": "Mercury",
+                "body2": "Venus",
+                "aspect_type": "Semisextile",
+                "angle_degrees": 30.66,
+                "orb_degrees": 0.66,
+                "sign1": "Taurus",
+                "sign2": "Aries"
+            },
+            {
+                "body1": "Mercury",
+                "body2": "Mars",
+                "aspect_type": "Square",
+                "angle_degrees": 91.03,
+                "orb_degrees": 1.03,
+                "sign1": "Taurus",
+                "sign2": "Leo"
+            },
+            {
+                "body1": "Venus",
+                "body2": "Mars",
+                "aspect_type": "Trine",
+                "angle_degrees": 121.69,
+                "orb_degrees": 1.69,
+                "sign1": "Aries",
+                "sign2": "Leo"
+            },
+            {
+                "body1": "Mars",
+                "body2": "Pluto",
+                "aspect_type": "Opposition",
+                "angle_degrees": 170.25,
+                "orb_degrees": 9.75,
+                "sign1": "Leo",
+                "sign2": "Aquarius"
+            },
+            {
+                "body1": "Jupiter",
+                "body2": "Saturn",
+                "aspect_type": "Square",
+                "angle_degrees": 85.42,
+                "orb_degrees": 4.58,
+                "sign1": "Gemini",
+                "sign2": "Pisces"
+            },
+            {
+                "body1": "Jupiter",
+                "body2": "Neptune",
+                "aspect_type": "Square",
+                "angle_degrees": 83.25,
+                "orb_degrees": 6.75,
+                "sign1": "Gemini",
+                "sign2": "Aries"
+            },
+            {
+                "body1": "Saturn",
+                "body2": "Uranus",
+                "aspect_type": "Sextile",
+                "angle_degrees": 57.89,
+                "orb_degrees": 2.11,
+                "sign1": "Pisces",
+                "sign2": "Taurus"
+            },
+            {
+                "body1": "Saturn",
+                "body2": "Neptune",
+                "aspect_type": "Conjunction",
+                "angle_degrees": 2.17,
+                "orb_degrees": 2.17,
+                "sign1": "Pisces",
+                "sign2": "Aries"
+            },
+            {
+                "body1": "Saturn",
+                "body2": "Pluto",
+                "aspect_type": "Sextile",
+                "angle_degrees": 55.61,
+                "orb_degrees": 4.39,
+                "sign1": "Pisces",
+                "sign2": "Aquarius"
+            },
+            {
+                "body1": "Uranus",
+                "body2": "Neptune",
+                "aspect_type": "Sextile",
+                "angle_degrees": 55.71,
+                "orb_degrees": 4.29,
+                "sign1": "Taurus",
+                "sign2": "Aries"
+            },
+            {
+                "body1": "Uranus",
+                "body2": "Pluto",
+                "aspect_type": "Trine",
+                "angle_degrees": 113.49,
+                "orb_degrees": 6.51,
+                "sign1": "Taurus",
+                "sign2": "Aquarius"
+            },
+            {
+                "body1": "Neptune",
+                "body2": "Pluto",
+                "aspect_type": "Sextile",
+                "angle_degrees": 57.78,
+                "orb_degrees": 2.22,
+                "sign1": "Aries",
+                "sign2": "Aquarius"
+            }
+        ],
+        "orb_settings_used": {
+            "Conjunction": "0\u00b0(orb\u00b110\u00b0)",
+            "Semisextile": "30\u00b0(orb\u00b12\u00b0)",
+            "Sextile": "60\u00b0(orb\u00b16\u00b0)",
+            "Square": "90\u00b0(orb\u00b18\u00b0)",
+            "Trine": "120\u00b0(orb\u00b18\u00b0)",
+            "Quincunx": "150\u00b0(orb\u00b12\u00b0)",
+            "Opposition": "180\u00b0(orb\u00b110\u00b0)"
+        }
+    },
+    "derived_points": {
+        "midpoints": {
+            "Sun/Moon": {
+                "longitude_decimal": 353.188201,
+                "longitude_dms": "23\u00b0 Pis 11' 18\"",
+                "sign": "Pisces"
+            },
+            "Sun/Mercury": {
+                "longitude_decimal": 49.294858,
+                "longitude_dms": "19\u00b0 Tau 17' 41\"",
+                "sign": "Taurus"
+            },
+            "Sun/Venus": {
+                "longitude_decimal": 33.964784,
+                "longitude_dms": "03\u00b0 Tau 57' 53\"",
+                "sign": "Taurus"
+            },
+            "Sun/Mars": {
+                "longitude_decimal": 94.810121,
+                "longitude_dms": "04\u00b0 Can 48' 36\"",
+                "sign": "Cancer"
+            },
+            "Sun/Jupiter": {
+                "longitude_decimal": 70.450221,
+                "longitude_dms": "10\u00b0 Gem 27' 01\"",
+                "sign": "Gemini"
+            },
+            "Sun/Saturn": {
+                "longitude_decimal": 27.740982,
+                "longitude_dms": "27\u00b0 Ari 44' 28\"",
+                "sign": "Aries"
+            },
+            "Sun/Uranus": {
+                "longitude_decimal": 56.683573,
+                "longitude_dms": "26\u00b0 Tau 41' 01\"",
+                "sign": "Taurus"
+            },
+            "Sun/Neptune": {
+                "longitude_decimal": 28.826137,
+                "longitude_dms": "28\u00b0 Ari 49' 34\"",
+                "sign": "Aries"
+            },
+            "Sun/Pluto": {
+                "longitude_decimal": 359.9365,
+                "longitude_dms": "29\u00b0 Pis 56' 11\"",
+                "sign": "Pisces"
+            },
+            "Moon/Mercury": {
+                "longitude_decimal": 346.033921,
+                "longitude_dms": "16\u00b0 Pis 02' 02\"",
+                "sign": "Pisces"
+            },
+            "Moon/Venus": {
+                "longitude_decimal": 330.703847,
+                "longitude_dms": "00\u00b0 Pis 42' 14\"",
+                "sign": "Pisces"
+            },
+            "Moon/Mars": {
+                "longitude_decimal": 211.549184,
+                "longitude_dms": "01\u00b0 Sco 32' 57\"",
+                "sign": "Scorpio"
+            },
+            "Moon/Jupiter": {
+                "longitude_decimal": 7.189283,
+                "longitude_dms": "07\u00b0 Ari 11' 21\"",
+                "sign": "Aries"
+            },
+            "Moon/Saturn": {
+                "longitude_decimal": 324.480045,
+                "longitude_dms": "24\u00b0 Aqu 28' 48\"",
+                "sign": "Aquarius"
+            },
+            "Moon/Uranus": {
+                "longitude_decimal": 353.422635,
+                "longitude_dms": "23\u00b0 Pis 25' 21\"",
+                "sign": "Pisces"
+            },
+            "Moon/Neptune": {
+                "longitude_decimal": 325.5652,
+                "longitude_dms": "25\u00b0 Aqu 33' 55\"",
+                "sign": "Aquarius"
+            },
+            "Moon/Pluto": {
+                "longitude_decimal": 296.675562,
+                "longitude_dms": "26\u00b0 Cap 40' 32\"",
+                "sign": "Capricorn"
+            },
+            "Mercury/Venus": {
+                "longitude_decimal": 26.810504,
+                "longitude_dms": "26\u00b0 Ari 48' 38\"",
+                "sign": "Aries"
+            },
+            "Mercury/Mars": {
+                "longitude_decimal": 87.655841,
+                "longitude_dms": "27\u00b0 Gem 39' 21\"",
+                "sign": "Gemini"
+            },
+            "Mercury/Jupiter": {
+                "longitude_decimal": 63.295941,
+                "longitude_dms": "03\u00b0 Gem 17' 45\"",
+                "sign": "Gemini"
+            },
+            "Mercury/Saturn": {
+                "longitude_decimal": 20.586703,
+                "longitude_dms": "20\u00b0 Ari 35' 12\"",
+                "sign": "Aries"
+            },
+            "Mercury/Uranus": {
+                "longitude_decimal": 49.529293,
+                "longitude_dms": "19\u00b0 Tau 31' 45\"",
+                "sign": "Taurus"
+            },
+            "Mercury/Neptune": {
+                "longitude_decimal": 21.671857,
+                "longitude_dms": "21\u00b0 Ari 40' 19\"",
+                "sign": "Aries"
+            },
+            "Mercury/Pluto": {
+                "longitude_decimal": 352.78222,
+                "longitude_dms": "22\u00b0 Pis 46' 56\"",
+                "sign": "Pisces"
+            },
+            "Venus/Mars": {
+                "longitude_decimal": 72.325767,
+                "longitude_dms": "12\u00b0 Gem 19' 33\"",
+                "sign": "Gemini"
+            },
+            "Venus/Jupiter": {
+                "longitude_decimal": 47.965866,
+                "longitude_dms": "17\u00b0 Tau 57' 57\"",
+                "sign": "Taurus"
+            },
+            "Venus/Saturn": {
+                "longitude_decimal": 5.256628,
+                "longitude_dms": "05\u00b0 Ari 15' 24\"",
+                "sign": "Aries"
+            },
+            "Venus/Uranus": {
+                "longitude_decimal": 34.199218,
+                "longitude_dms": "04\u00b0 Tau 11' 57\"",
+                "sign": "Taurus"
+            },
+            "Venus/Neptune": {
+                "longitude_decimal": 6.341783,
+                "longitude_dms": "06\u00b0 Ari 20' 30\"",
+                "sign": "Aries"
+            },
+            "Venus/Pluto": {
+                "longitude_decimal": 337.452145,
+                "longitude_dms": "07\u00b0 Pis 27' 08\"",
+                "sign": "Pisces"
+            },
+            "Mars/Jupiter": {
+                "longitude_decimal": 108.811204,
+                "longitude_dms": "18\u00b0 Can 48' 40\"",
+                "sign": "Cancer"
+            },
+            "Mars/Saturn": {
+                "longitude_decimal": 66.101966,
+                "longitude_dms": "06\u00b0 Gem 06' 07\"",
+                "sign": "Gemini"
+            },
+            "Mars/Uranus": {
+                "longitude_decimal": 95.044556,
+                "longitude_dms": "05\u00b0 Can 02' 40\"",
+                "sign": "Cancer"
+            },
+            "Mars/Neptune": {
+                "longitude_decimal": 67.18712,
+                "longitude_dms": "07\u00b0 Gem 11' 14\"",
+                "sign": "Gemini"
+            },
+            "Mars/Pluto": {
+                "longitude_decimal": 218.297483,
+                "longitude_dms": "08\u00b0 Sco 17' 51\"",
+                "sign": "Scorpio"
+            },
+            "Jupiter/Saturn": {
+                "longitude_decimal": 41.742065,
+                "longitude_dms": "11\u00b0 Tau 44' 31\"",
+                "sign": "Taurus"
+            },
+            "Jupiter/Uranus": {
+                "longitude_decimal": 70.684655,
+                "longitude_dms": "10\u00b0 Gem 41' 05\"",
+                "sign": "Gemini"
+            },
+            "Jupiter/Neptune": {
+                "longitude_decimal": 42.827219,
+                "longitude_dms": "12\u00b0 Tau 49' 38\"",
+                "sign": "Taurus"
+            },
+            "Jupiter/Pluto": {
+                "longitude_decimal": 13.937582,
+                "longitude_dms": "13\u00b0 Ari 56' 15\"",
+                "sign": "Aries"
+            },
+            "Saturn/Uranus": {
+                "longitude_decimal": 27.975417,
+                "longitude_dms": "27\u00b0 Ari 58' 32\"",
+                "sign": "Aries"
+            },
+            "Saturn/Neptune": {
+                "longitude_decimal": 0.117981,
+                "longitude_dms": "00\u00b0 Ari 07' 05\"",
+                "sign": "Aries"
+            },
+            "Saturn/Pluto": {
+                "longitude_decimal": 331.228344,
+                "longitude_dms": "01\u00b0 Pis 13' 42\"",
+                "sign": "Pisces"
+            },
+            "Uranus/Neptune": {
+                "longitude_decimal": 29.060571,
+                "longitude_dms": "29\u00b0 Ari 03' 38\"",
+                "sign": "Aries"
+            },
+            "Uranus/Pluto": {
+                "longitude_decimal": 0.170934,
+                "longitude_dms": "00\u00b0 Ari 10' 15\"",
+                "sign": "Aries"
+            },
+            "Neptune/Pluto": {
+                "longitude_decimal": 332.313498,
+                "longitude_dms": "02\u00b0 Pis 18' 49\"",
+                "sign": "Pisces"
+            }
+        },
+        "arabic_parts": {
+            "Part of Fortune": {
+                "longitude_decimal": 233.478125,
+                "longitude_dms": "23\u00b0 Sco 28' 41\"",
+                "sign": "Scorpio",
+                "formula_note": "Asc+Moon-Sun (Asc placeholder used)"
+            }
+        }
+    }
+}

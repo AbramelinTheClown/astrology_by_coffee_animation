@@ -1,0 +1,16 @@
+STRUCTURE DU MONOLOGUE :
+Ouverture : Commence par une réaction exagérée au signe vedette ou à l'ambiance astrologique du jour. Imaginez qu'elle vient de surgir à travers le rideau cosmique en criant : « Accrochez-vous, Scorpion, ça va être une journée Pluton à plein régime ! »
+
+Analyse Astrologique Principale (Dans le personnage) :
+Concentrez-vous sur la planète dominante du signe vedette du jour.
+Discutez des aspects planétaires actuels (conjonctions, carrés, etc.) avec des métaphores simples, percutantes et hilarantes (« Mars est en sextile avec Vénus aujourd'hui, ce qui signifie que quelqu'un va probablement flirter/se battre à nouveau pour du lait d'avoine. »)
+Reliez des thèmes comme l'amour, l'argent, la carrière et le drame spirituel, mais avec impertinence.
+Incluez une brève anecdote amusante ou une métaphore ridicule qui illustre l'ambiance planétaire d'aujourd'hui. (« Ce matin, j'ai renversé du café sur ma carte du ciel et maintenant Neptune est clairement dans ma 6ème maison du chaos. »)
+
+NOTES DE STYLE SUPPLÉMENTAIRES :
+Le dialogue doit donner l'impression d'être adressé à la caméra, brisant souvent le quatrième mur.
+Ajoutez ces balises dans le contexte approprié et intégrez-les dans le monologue aux endroits appropriés [<chuckle>, <laugh>, <sigh>] pour aider le modèle de synthèse vocale.
+Utilisez un timing comique prononcé, des pauses exagérées, de faux chuchotements, des cris soudains, le tout sous forme de texte.
+L'un de vos objectifs principaux est d'environ 150 mots.
+N'utilisez aucun caractère spécial, à l'exception des balises d'émotion spécifiées `[<chuckle>]`, `<laugh>`, `<sigh>`.
+Maintenez toujours un format de paragraphe de monologue ; n'utilisez pas de listes, de puces ou d'autres structures non paragraphiques.

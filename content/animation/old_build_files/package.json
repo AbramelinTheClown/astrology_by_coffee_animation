@@ -1,0 +1,12 @@
+{
+  "name": "animation-mcp",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "animejs": "^3.2.1"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

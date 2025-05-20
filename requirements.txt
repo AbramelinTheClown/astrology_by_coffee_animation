@@ -1,0 +1,13 @@
+pillow
+moviepy
+librosa
+numpy
+matplotlib
+ollama
+skyfield
+logging
+numpy
+asyncio
+datetime
+requests
+gradio_client

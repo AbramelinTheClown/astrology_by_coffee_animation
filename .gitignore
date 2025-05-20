@@ -10,6 +10,9 @@ pip-selfcheck.json
 .coverage
 htmlcov/
 
+#Credentials
+D:\AI\astrology_by_coffee_v1\api\astrologybycoffee_google_credentials.json/
+
 # Node.js
 node_modules/
 npm-debug.log*
@@ -28,7 +31,7 @@ venv.bak/
 mcpvenv/
 ttsvenv/
 fastvenv/
-
+anivenv/
 # Editor
 .vscode/
 .idea/
@@ -50,5 +53,5 @@ outputs/
 
 #folders/
 cache/
-D:\AI\astrology_by_coffee_v1\anienv/
+anienv/
 src/
